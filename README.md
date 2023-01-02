@@ -1,5 +1,5 @@
 # Execurse
-The link to a project I was a contributor for:
+The link to a project I was a main contributor for:
 https://github.com/Aryid-crypt/Execurse
 
 It is a web-based user-orientated forum.
